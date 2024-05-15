@@ -4,9 +4,6 @@
 
 PHP Фасад для API Super Job (www.superjob.ru)
 
-#### Схема работы API
-https://miro.com/app/board/uXjVKHFfUB0=/
-
 #### Реализация
  - API: реализация запросов к api сервису `Super Job`
  - Servcie: Фасад для класса API
