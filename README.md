@@ -1,5 +1,7 @@
 # api SuperJob
 
+## IN PROGRESS
+
 PHP Фасад для API Super Job (www.superjob.ru)
 
 #### Схема работы API
@@ -55,6 +57,9 @@ $superJobService = new SuperJobService($apiSuperJob);
 // Use `Service`
 $me = $superJobService->me(); // return and_y87\api_super_job\response\Me();
 ```
+
+#### Схема работы API
+![Схема работы API](https://static.andy87.ru/github/api/apiLogivSchema.png)
 
 ### Исходная документация API `SuperJob`: 
  - https://api.superjob.ru
