@@ -40,6 +40,7 @@ $superJobApiRequisites = new SuperJobApiRequisites( $client_id, $client_secret )
 $apiSuperJob = ApiSuperJob( $superJobApiRequisites, $redisCacheProvider );
 
 // Use `Api`
+$me = $apiSuperJob->me(); // return array
 ```
 ### Использование Service
 Методы Service возвращают Объекты с данными.
