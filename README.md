@@ -1,4 +1,4 @@
-# api SuperJob
+# providerSuperJob
 
 PHP Фасад для API Super Job (www.superjob.ru)
 
